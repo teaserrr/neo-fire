@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/tim/arduino-1.8.13/hardware/arduino/avr/**",
+                "/home/tim/arduino-1.8.13/tools/**"
+            ],
+            "forcedInclude": [
+                "/home/tim/arduino-1.8.13/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
